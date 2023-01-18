@@ -76,3 +76,7 @@ Figure 5: How Themistoklis’s different stacks interact
 ## Team
 
 Alex: AI & Network Engineer, focusing on Python, NodeJS/TS and C#. Github Profile
+
+# Donate
+https://giveth.io/donate/project-themistoklis
+
